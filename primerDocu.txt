@@ -6,3 +6,5 @@ Segundo cambio.
 
 Tercer cambio desde la interfaz gráfica, no me obliga a poner un comentario y además no se reflejan haciendo un git log 
 desde la consola de comandos.
+
+Veamos qué pasa con esta línea.
